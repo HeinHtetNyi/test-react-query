@@ -1,0 +1,19 @@
+{
+    "superheros": [
+        {
+            "id": 1,
+            "name": "Mg Mg",
+            "age": 20
+        },
+        {
+            "id": 2,
+            "name": "Aye Aye",
+            "age": 20
+        },
+        {
+            "id": 3,
+            "name": "Su Su",
+            "age": 20
+        }
+    ]
+}

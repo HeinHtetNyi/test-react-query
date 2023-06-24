@@ -1,0 +1,8 @@
+.links {
+    display: flex;
+    gap: 40px;
+}
+
+.link {
+    text-decoration: none;
+}
